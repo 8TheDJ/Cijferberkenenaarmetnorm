@@ -1,6 +1,8 @@
 import pandas as pd
 import os
-# voor gebruik installeer eerst, numpy, pandas, openpyxl, door: pip install "extensie", te doen
+# 2024 copyright 8TheDJ.
+# For contact use 8TheDJroblox@gmail.com or contact my discord at 8TheDJ.
+# voor gebruik installeer eerst, numpy, pandas, openpyxl, door: pip3 install "extensie", te doen
 
 excel_bestand = "cijfers.xlsx"
 if os.path.exists(excel_bestand):
